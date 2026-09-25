@@ -59,9 +59,9 @@ A typical customer interaction follows this process:
 
 ## System Design
 
-The system design shows the architecture, lead-routing logic, process flow, human oversight, and monitoring structure behind the Cybervast B2B AI Lead Qualification & Follow-Up Workflow.
+The system design shows VELA's architecture, knowledge retrieval process, ANSWER and HANDOVER routing, customer context, human oversight, and monitoring structure.
 
-[**View Cybervast System Design**](docs/cybervast-system-design.pdf)
+[**View VELA System Design**](docs/vela-system-design.pdf)
 
 ## Demo
 
