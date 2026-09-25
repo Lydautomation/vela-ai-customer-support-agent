@@ -57,6 +57,12 @@ A typical customer interaction follows this process:
 9. Handover information is recorded and the seller is notified.
 10. Supporting monitoring workflows track system errors and overall system health.
 
+## System Design
+
+The system design shows the architecture, lead-routing logic, process flow, human oversight, and monitoring structure behind the Cybervast B2B AI Lead Qualification & Follow-Up Workflow.
+
+[**View Cybervast System Design**](docs/cybervast-system-design.pdf)
+
 ## Demo
 
 Watch VELA in action as it demonstrates AI-powered customer support, knowledge retrieval, conversational assistance, and human handover when seller intervention is required.
