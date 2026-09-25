@@ -57,6 +57,38 @@ A typical customer interaction follows this process:
 9. Handover information is recorded and the seller is notified.
 10. Supporting monitoring workflows track system errors and overall system health.
 
+## Project Screenshots
+
+### Main Workflow Overview
+
+The main n8n workflow orchestrates customer interactions, AI processing, knowledge retrieval, routing, and automated actions.
+
+![VELA Main Workflow Overview](screenshots/vela-workflow-overview.png)
+
+### Customer Interaction
+
+Customers interact with VELA conversationally through Telegram to ask questions and receive assistance.
+
+![VELA Telegram Customer Conversation](screenshots/vela-telegram-conversation.png)
+
+### RAG Knowledge Retrieval
+
+VELA retrieves relevant business information from the approved knowledge base to ground responses in available VELA-specific information.
+
+![VELA RAG Knowledge Base Retrieval](screenshots/vela-rag-knowledge-base.png)
+
+### Human Handover
+
+Requests requiring seller attention are routed through the HANDOVER path instead of being handled autonomously by the AI.
+
+![VELA Human Handover](screenshots/vela-human-handover.png)
+
+### Seller Handover Notification
+
+When human intervention is required, the seller receives a structured notification containing the relevant customer request and handover information.
+
+![VELA Seller Handover Notification](screenshots/vela-seller-handover-notification.png)
+
 ## Retrieval-Augmented Generation (RAG)
 
 VELA uses Retrieval-Augmented Generation to reduce unsupported or invented responses about business-specific information.
