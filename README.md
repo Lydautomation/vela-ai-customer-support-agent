@@ -67,7 +67,7 @@ The system design shows VELA's architecture, knowledge retrieval process, ANSWER
 
 Watch VELA in action as it demonstrates AI-powered customer support, knowledge retrieval, conversational assistance, and human handover when seller intervention is required.
 
-[**Watch VELA Demo**](https://www.loom.com/share/02312112793240e1816b46f2b9216b75)
+[**Watch VELA Demo**](https://youtube.com/shorts/QdC5G3XnxlE?si=IGhwVCSJsAU3HNJ4)
 
 ## Project Screenshots
 
